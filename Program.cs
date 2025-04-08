@@ -24,6 +24,8 @@
             {
                 // vi vil nu udskrive vores ingredienser 
                 Console.WriteLine(ingredient);
+
+                Console.ReadKey();
             }
         }
     }
